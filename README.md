@@ -76,6 +76,5 @@ With a strong foundation in **C++ (DSA & OOP)**, **Python (Scikit-learn & Tensor
 ## 📈 Activity Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaansahu22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaansahu22&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaansahu22&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
